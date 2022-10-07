@@ -20,4 +20,3 @@ for (word, count) in output:
 # Stopping Spark-Session and Spark context
 sc.stop()
 spark.stop()
-Footer
